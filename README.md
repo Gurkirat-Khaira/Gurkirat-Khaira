@@ -30,8 +30,8 @@ I'm a passionate **JavaScript & Python Developer** who loves building scalable a
 
 ### 🤖 [ETERNITY-Bot](https://github.com/Gurkirat-Khaira/ETERNITY-Bot)
 A feature-rich Discord bot for tracking and managing server streaming activity! Sends automatic notifications when members go live using Discord's built-in streaming feature, tracks stream duration and statistics, displays leaderboards, and provides detailed analytics with automated hourly/daily reports.
-### 📊 [Intellisort](https://github.com/Gurkirat-Khaira/Intellisort)
-A powerful web-based sorting visualizer that brings algorithms to life! Compare multiple sorting techniques side-by-side with customizable array sizes, speeds, and beautiful animations that make learning algorithms engaging and intuitive.
+### ♻️ [Intellisort](https://github.com/Gurkirat-Khaira/Intellisort)
+AI-powered waste management platform that revolutionizes waste sorting, recycling, and disposal. Transform waste to wonder with intelligent, eco-friendly solutions built with Next.js and AI.learning algorithms engaging and intuitive.
 
 ## 📈 GitHub Stats
 
