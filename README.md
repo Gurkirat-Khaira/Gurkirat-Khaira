@@ -26,18 +26,14 @@ I'm a passionate **JavaScript & Python Developer** who loves building scalable a
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat-Khaira&layout=compact&theme=radical)
+
 ## 🔥 Featured Projects
 
 ### 🤖 [ETERNITY-Bot](https://github.com/Gurkirat-Khaira/ETERNITY-Bot)
 A feature-rich Discord bot for tracking and managing server streaming activity! Sends automatic notifications when members go live using Discord's built-in streaming feature, tracks stream duration and statistics, displays leaderboards, and provides detailed analytics with automated hourly/daily reports.
 ### ♻️ [Intellisort](https://github.com/Gurkirat-Khaira/Intellisort)
 AI-powered waste management platform that revolutionizes waste sorting, recycling, and disposal. Transform waste to wonder with intelligent, eco-friendly solutions built with Next.js and AI.learning algorithms engaging and intuitive.
-
-## 📈 GitHub Stats
-
-![Gurkirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurkirat-Khaira&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurkirat-Khaira&layout=compact&theme=radical)
 
 ## 🎯 Currently Working On
 - 🔨 Building innovative Discord bots and web applications
